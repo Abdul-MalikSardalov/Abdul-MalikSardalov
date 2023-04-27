@@ -1,6 +1,7 @@
-# Hi THERE :wave
+# Hi THERE
 
 -I am currently studying FRONT-END development at Bruxelles Formation :computer:
+
 -Future developer from Ukraine :purple_heart: :yellow_heart:
 
 ## Contact info
