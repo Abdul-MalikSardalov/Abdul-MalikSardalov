@@ -1,4 +1,3 @@
-
 # Hi THERE:wave:
 
 -I am currently studying FRONT-END development at Bruxelles Formation :computer:
@@ -8,8 +7,6 @@
 > ## _Best quote_
 >
 > **After hardship there is always relief**
-
-## Contact info
 
 ## Contact info
 
