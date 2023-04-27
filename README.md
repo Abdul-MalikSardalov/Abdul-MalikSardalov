@@ -1,8 +1,8 @@
-# Hi THERE 👋
+# HI THERE 👋
 
--I am currently studying FRONT-END development at Bruxelles Formation :computer:
+- I am currently studying FRONT-END development at Bruxelles Formation 💻
 
--Future developer from Ukraine :purple_heart: :yellow_heart:
+- Future developer from Ukraine 🔵 🇺🇦 🟡
 
 > ## _Best quote_
 >
