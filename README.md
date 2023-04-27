@@ -1,4 +1,4 @@
-# Hi THERE
+# Hi THERE:wave:
 
 -I am currently studying FRONT-END development at Bruxelles Formation :computer:
 
