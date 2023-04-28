@@ -18,3 +18,6 @@
 ## **Contact info**
 
 My email : msar9565@gmail.com 📧
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-MalikSardalov&theme=radical)
+
