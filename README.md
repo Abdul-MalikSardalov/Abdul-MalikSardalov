@@ -2,8 +2,8 @@
 
 ## 🔎 **Education**
 
-- Bachelor degree at Kiev National Economic University (Management) 💼
-- Master's degree at Kiev National Economic University (Finance) 💸
+- Bachelor degree at Kyiv National Economic University (Management) 💼
+- Master's degree at Kyiv National Economic University (Finance) 💸
 
 ## **🚀 Current status**
 
